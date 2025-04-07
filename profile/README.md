@@ -1,4 +1,4 @@
-# <img src="https://github.com/user-attachments/assets/f8554a41-0d37-4ec6-8d33-236aef96984f" />
+# <img src="https://github.com/user-attachments/assets/5b0a4a37-ecab-4ca6-b955-1a2bbccad0b4" />
 
 Like a durable parquet floor, GigAPI provides rock-solid data foundation — so you can focus on insights, not infrastructure
 
